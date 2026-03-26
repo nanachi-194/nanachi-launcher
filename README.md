@@ -1,4 +1,4 @@
-# nanachi-launcher
+# ナナチランチャー
 * ダウンロードはこちら[https://github.com/nanachi-194/nanachi-launcher/releases]
 ## 紹介
 このナナチランチャーは私の制作したアプリを管理、実行するのを目的として制作しています。  
